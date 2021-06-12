@@ -1,0 +1,4 @@
+__pycache__
+large_data
+*.pyc
+.ipynb_checkpoints
